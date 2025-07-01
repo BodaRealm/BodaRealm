@@ -37,6 +37,6 @@ Feel free to explore my repos, reach out with ideas, or just say hi. I’m alway
 
 ---
 
-> “Code is poetry. Debugging is therapy.”
+> “Code is poetry. Debugging is living hell.”
 
 ---
