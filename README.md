@@ -46,6 +46,7 @@ Feel free to explore my repos, reach out with ideas, or just say hi. I’m alway
 ## ☕ Buy Me a Coffee
 
 If you like my work and want to support me:
+
 **Bitcoin (BTC):**  
 `bc1p90a97vdn62kmgwje7gs9a09ckum273gd0ctyxkllu2zd4g3k0h0scajl4l`
 
