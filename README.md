@@ -46,11 +46,11 @@ Feel free to explore my repos, reach out with ideas, or just say hi. I’m alway
 ## ☕ Buy Me a Coffee
 
 If you like my work and want to support me:
-### Bitcoin
-![Bitcoin Wallet](https://api.qrserver.com/v1/create-qr-code/?data=bc1p90a97vdn62kmgwje7gs9a09ckum273gd0ctyxkllu2zd4g3k0h0scajl4l&size=150x150)
+**Bitcoin (BTC):**  
+`bc1p90a97vdn62kmgwje7gs9a09ckum273gd0ctyxkllu2zd4g3k0h0scajl4l`
 
-### Ethereum
-![Ethereum Wallet](https://api.qrserver.com/v1/create-qr-code/?data=0x56f52c5d1c27ef79d507d647e94996dea4325499&size=150x150)
+**Ethereum (ETH):**  
+`0x56f52c5d1c27ef79d507d647e94996dea4325499`
 
 ---
 
