@@ -4,6 +4,8 @@ Hey there! I'm **Abdelrahman Atia**, but around the web and in code, I go by **B
 
 I'm a self-driven developer who codes for fun and builds tools to simplify life — powered by curiosity, tea, and the occasional late-night bug hunt.
 
+Heyyyy btw Most of my respos are Private code So YEAA I HAVE A LOT PROJECTS
+
 ---
 
 ### 🧠 Tech Stack I Play With
