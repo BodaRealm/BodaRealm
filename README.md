@@ -16,6 +16,7 @@ Heyyyy btw Most of my Repositories are Private code So YEAA I HAVE A LOT PROJECT
 ---
 
 ### 🚀 Current Projects
+- **Sidekic** — A startup I founded with a team of five including me, if you are interested in knowing more reach out! 
 - **HRM System** — A solo-built HR platform powered by AI to rethink human resource management from the ground up
 - **Trading App** — A twitter like platform with Braintree subscription where The paying company can share recommendation with thier paid users.
 - **Personal automations** — Tiny tools to make my day smoother and my workflow tighter
@@ -41,7 +42,7 @@ Heyyyy btw Most of my Repositories are Private code So YEAA I HAVE A LOT PROJECT
 ---
 
 ### 📬 Let's Connect
-Feel free to explore my repos, reach out with ideas, or just say hi. I’m always open to cool projects, collabs, or a quick bug battle.
+Feel free to explore my repos which btw are all private so....., reach out with ideas, or just say hi. I’m always open to cool projects, collabs, or a quick bug battle.
 
 ---
 
