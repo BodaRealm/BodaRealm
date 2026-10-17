@@ -44,6 +44,7 @@ Heyyyy btw Most of my Repositories are Private code So YEAA I HAVE A LOT PROJECT
 ### 📬 Let's Connect
 Feel free to explore my repos which btw are all private so....., reach out with ideas, or just say hi. I’m always open to cool projects, collabs, or a quick bug battle.
 
+Check those since ther are public. studyrealm.de     sidekic.de
 ---
 
 ## ☕ Buy Me a Coffee
